@@ -1,18 +1,18 @@
 {
-  "name": "mehmetbeyhz/tiktokapi",
+  "name": "mrsl-yailim/tiktokapi",
   "description": "PHP Unofficial TikTok API",
   "type": "library",
   "require": {
     "ext-curl": "*",
     "ext-json": "*",
     "ext-imagick": "*",
-    "mehmetbeyhz/easy-json-mapper": "dev-master"
+    "mrsl-yailim/easy-json-mapper": "dev-master"
   },
   "license": "MIT",
   "authors": [
     {
-      "name": "mehmetbeyhz",
-      "email": "mehmetbeyhz@gmail.com"
+      "name": "mrsl-yailim",
+      "email": "mrsl-yailim@gmail.com"
     }
   ],
   "minimum-stability": "dev",
